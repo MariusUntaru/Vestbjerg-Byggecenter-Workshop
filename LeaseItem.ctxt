@@ -1,4 +1,0 @@
-#BlueJ class context
-comment0.params=amount\ leasableUnit\ numberOfDays
-comment0.target=LeaseItem(int,\ LeasableUnit,\ int)
-numComments=1

@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.params=customer\ CVRCPR
-comment0.target=Personal(Customer,\ java.lang.String)
-comment1.params=name\ address\ phoneNumber\ customerID\ CVRCPR
-comment1.target=Personal(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
-numComments=2
