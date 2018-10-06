@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=name\ address\ phoneNumber\ customerID
+comment0.target=Customer(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment1.params=phoneNumber
+comment1.target=void\ changePhoneNumber(java.lang.String)
+comment2.params=address
+comment2.target=void\ changeAddress(java.lang.String)
+numComments=3
